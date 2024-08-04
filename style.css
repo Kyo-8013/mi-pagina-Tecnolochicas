@@ -49,16 +49,15 @@ header h2 {
     margin-bottom: 20px;
 }
 .image-container img {
-    width: 35%; 
-    margin: 0 5px;
-    justify-content: center;
+    width: 40%; 
+    margin: 5px  5px;
+    justify-content: center ; 
 }
 .full-width-img {
-    width: 80%;
-    height: auto;
-    margin: 0 120px;
-    display: inline-block;
-    margin-bottom: 20px;
+    width: 100%; 
+    margin: 5px 5px;
+    position: relative;
+    justify-content: center !important;
 }
 
 .cierre{
